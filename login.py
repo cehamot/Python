@@ -17,3 +17,4 @@ if username == username_from_db:
 		print "User Tidak Terdaftar"
 else:
 	print "Password Salah"
+	print "EH SALAH PASSWORD"
